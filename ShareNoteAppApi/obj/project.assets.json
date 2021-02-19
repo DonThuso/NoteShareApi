@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi\\ShareNoteAppApi.csproj",
-      "projectName": "ShareNoteAppApi",
-      "projectPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi\\ShareNoteAppApi.csproj",
+      "projectUniqueName": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi\\NoteShareAppApi.csproj",
+      "projectName": "NoteShareAppApi",
+      "projectPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi\\NoteShareAppApi.csproj",
       "packagesPath": "C:\\Users\\Thuso\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi\\obj\\",
       "projectStyle": "PackageReference",

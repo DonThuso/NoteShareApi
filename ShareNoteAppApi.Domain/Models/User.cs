@@ -6,6 +6,7 @@ namespace ShareNoteAppApi.Domain.Models
 {
     public class User
     {
+        public int UserId { get; set; }
         public string FirtsName { get; set; }
         public string LastName { get; set; }
         public string ContactNumber { get; set; }
@@ -13,7 +14,8 @@ namespace ShareNoteAppApi.Domain.Models
         public string SchoolLevel { get; set; }
         public DateTime DateCreated { get; set; }
         public DateTime DateUpdated { get; set; }
-        public int UpdatedById { get; set; }
-        public virtual User UserId { get; set; }
+        public Guid UpdatedById { get; set; }
+        public virtual User UpdatedByUser { get; set; }
+        public Guid UserLookup { get; set; }
     }
 }

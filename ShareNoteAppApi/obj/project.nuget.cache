@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3O+xApmjyNYool7EdrkCtSrMTo7VvLgG3QziTc49TC+fMKQRmTQeXHJd3JxzwE70leHqupczRfhW+1L2laGLKw==",
+  "dgSpecHash": "/x4FqcSXdFImT/130T/Hl+HsXhnF3TvvqkvD+qXUcFMRR5EvKpo6ntW3nAIseiq9RVm8Z9DXcWGGlzJuz3hX+w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi\\ShareNoteAppApi.csproj",
+  "projectFilePath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi\\NoteShareAppApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

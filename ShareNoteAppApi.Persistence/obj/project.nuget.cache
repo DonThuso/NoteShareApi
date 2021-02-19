@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hlgBOErjbM1rCjjKBC9mJJZPIO05sHLzEy0wMv7Rl8dxMW5BGkqsbCSOM+8ff5mZeHl75mU4gS0aCCx2fwgDWw==",
+  "dgSpecHash": "N2WrfyC8WInHACXvh60pVDQj3oSYtGTPIiF8AIhb/aIJ1lXQKUKFZfjxsTt697ANujEpqqIEldfH7KiAdY1zMw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Persistence\\ShareNoteAppApi.Persistence.csproj",
+  "projectFilePath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Persistence\\NoteShareAppApi.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

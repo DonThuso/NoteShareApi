@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FgrBp2iKhtpfY2Lk4nPa+MWgX7S6cKbd4I2j2ms6EkVB/xNAjzrT1ginxmYTX1f7a+5T+a472q80iDOgnhdUTg==",
+  "dgSpecHash": "8LIUlnGUTffVPbNUg6/8liec425d/C0PxGUj4uRbccPifoL4qyneWxk8vctSSEsBW/sMRW86qYXy7qlu5FJkLg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Tests\\ShareNoteAppApi.Tests.csproj",
+  "projectFilePath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Tests\\NoteShareAppApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thuso\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Thuso\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",

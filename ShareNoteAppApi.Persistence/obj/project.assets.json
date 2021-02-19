@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "NoteShareAppApi.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NoteShareAppApi.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NoteShareAppApi.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NoteShareAppApi.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ShareNoteAppApi.Domain/NoteShareAppApi.Domain.csproj",
+      "msbuildProject": "../ShareNoteAppApi.Domain/NoteShareAppApi.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "NoteShareAppApi.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Thuso\\.nuget\\packages\\": {},
@@ -15,9 +34,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Persistence\\ShareNoteAppApi.Persistence.csproj",
-      "projectName": "ShareNoteAppApi.Persistence",
-      "projectPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Persistence\\ShareNoteAppApi.Persistence.csproj",
+      "projectUniqueName": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Persistence\\NoteShareAppApi.Persistence.csproj",
+      "projectName": "NoteShareAppApi.Persistence",
+      "projectPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Persistence\\NoteShareAppApi.Persistence.csproj",
       "packagesPath": "C:\\Users\\Thuso\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Persistence\\obj\\",
       "projectStyle": "PackageReference",
@@ -39,7 +58,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Domain\\NoteShareAppApi.Domain.csproj": {
+              "projectPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Domain\\NoteShareAppApi.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

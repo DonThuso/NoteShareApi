@@ -1,0 +1,9 @@
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\bin\Debug\netcoreapp3.1\NoteShareAppApi.Domain.deps.json
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\bin\Debug\netcoreapp3.1\NoteShareAppApi.Domain.dll
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\bin\Debug\netcoreapp3.1\NoteShareAppApi.Domain.pdb
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\obj\Debug\netcoreapp3.1\NoteShareAppApi.Domain.csprojAssemblyReference.cache
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\obj\Debug\netcoreapp3.1\NoteShareAppApi.Domain.AssemblyInfoInputs.cache
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\obj\Debug\netcoreapp3.1\NoteShareAppApi.Domain.AssemblyInfo.cs
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\obj\Debug\netcoreapp3.1\NoteShareAppApi.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\obj\Debug\netcoreapp3.1\NoteShareAppApi.Domain.dll
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Domain\obj\Debug\netcoreapp3.1\NoteShareAppApi.Domain.pdb

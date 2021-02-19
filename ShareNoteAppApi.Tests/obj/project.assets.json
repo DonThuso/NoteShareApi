@@ -5655,9 +5655,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Tests\\ShareNoteAppApi.Tests.csproj",
-      "projectName": "ShareNoteAppApi.Tests",
-      "projectPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Tests\\ShareNoteAppApi.Tests.csproj",
+      "projectUniqueName": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Tests\\NoteShareAppApi.Tests.csproj",
+      "projectName": "NoteShareAppApi.Tests",
+      "projectPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Tests\\NoteShareAppApi.Tests.csproj",
       "packagesPath": "C:\\Users\\Thuso\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\ShareNote\\ShareNoteAppApi\\ShareNoteAppApi.Tests\\obj\\",
       "projectStyle": "PackageReference",

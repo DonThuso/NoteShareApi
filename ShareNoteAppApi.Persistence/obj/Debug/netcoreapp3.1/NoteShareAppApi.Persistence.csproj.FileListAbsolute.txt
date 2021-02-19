@@ -1,0 +1,12 @@
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\bin\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.deps.json
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\bin\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.dll
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\bin\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.pdb
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\bin\Debug\netcoreapp3.1\NoteShareAppApi.Domain.dll
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\bin\Debug\netcoreapp3.1\NoteShareAppApi.Domain.pdb
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\obj\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.csprojAssemblyReference.cache
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\obj\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.AssemblyInfoInputs.cache
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\obj\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.AssemblyInfo.cs
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\obj\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\obj\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.csproj.CopyComplete
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\obj\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.dll
+C:\Projects\ShareNote\ShareNoteAppApi\ShareNoteAppApi.Persistence\obj\Debug\netcoreapp3.1\NoteShareAppApi.Persistence.pdb
